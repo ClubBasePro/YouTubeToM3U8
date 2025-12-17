@@ -3,11 +3,11 @@
 ## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
 ## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
 
-La Plagne Live || La Plagne || Webcam
+La Plagne Live || SnapMyRide.yt || Webcam
 https://www.youtube.com/watch?v=S2peu45iJRc
 
-Live Bergerie - 2184 m || La Plagne || Webcam
+Live Bergerie - 2184 m || SnapMyRide.yt || Webcam
 https://www.youtube.com/watch?v=emSM3Eh0YUw
 
-Live Colorado || La Plagne || Webcam
+Live Colorado || SnapMyRide.yt || Webcam
 https://www.youtube.com/watch?v=aFN_NxjgUDY
